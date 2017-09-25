@@ -31,3 +31,6 @@
 [submodule "classes/shgysk8zer0/phpcrypt"]
 	path = classes/shgysk8zer0/phpcrypt
 	url = git://github.com/shgysk8zer0/phpcrypt.git
+[submodule "css/normalize"]
+	path = css/normalize
+	url = git://github.com/necolas/normalize.css.git
