@@ -1,0 +1,33 @@
+[submodule "img/adwaita-icons"]
+	path = img/adwaita-icons
+	url = git://github.com/shgysk8zer0/adwaita-icons.git
+[submodule "img/logos"]
+	path = img/logos
+	url = git://github.com/shgysk8zer0/logos.git
+[submodule "fonts"]
+	path = fonts
+	url = git://github.com/shgysk8zer0/fonts.git
+[submodule "js/std-js"]
+	path = js/std-js
+	url = git://github.com/shgysk8zer0/std-js.git
+[submodule "css/core-css"]
+	path = css/core-css
+	url = git://github.com/shgysk8zer0/core-css.git
+[submodule "core"]
+	path = core
+	url = git://github.com/shgysk8zer0/core.git
+[submodule "classes/shgysk8zer0/core"]
+	path = classes/shgysk8zer0/core
+	url = git://github.com/shgysk8zer0/core.git
+[submodule "classes/shgysk8zer0/core_api"]
+	path = classes/shgysk8zer0/core_api
+	url = git://github.com/shgysk8zer0/core_api.git
+[submodule "classes/shgysk8zer0/dom"]
+	path = classes/shgysk8zer0/dom
+	url = git://github.com/shgysk8zer0/dom.git
+[submodule "classes/shgysk8zer0/login"]
+	path = classes/shgysk8zer0/login
+	url = git://github.com/shgysk8zer0/login.git
+[submodule "classes/shgysk8zer0/phpcrypt"]
+	path = classes/shgysk8zer0/phpcrypt
+	url = git://github.com/shgysk8zer0/phpcrypt.git
